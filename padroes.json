@@ -1,0 +1,52 @@
+[
+  {
+    "padrao": "dois_para_dois_casa",
+    "sequencia": ["C", "C", "V", "V", "C", "C", "V", "V"],
+    "mensagem": "Sequência indica o padrão 2 para 2 - Casa. Entrada: Casa"
+  },
+  {
+    "padrao": "dois_para_dois_visitante",
+    "sequencia": ["V", "V", "C", "C", "V", "V", "C", "C"],
+    "mensagem": "Sequência indica o padrão 2 para 2 - Visitante. Entrada: Visitante"
+  },
+  {
+    "padrao": "dois_para_um_casa",
+    "sequencia": ["C", "C", "V", "C", "C", "V", "C", "C"],
+    "mensagem": "Sequência indica o padrão 2 para 1 - Casa. Entrada: Casa"
+  },
+  {
+    "padrao": "dois_para_um_visitante",
+    "sequencia": ["V", "V", "C", "V", "V", "C", "V", "V"],
+    "mensagem": "Sequência indica o padrão 2 para 1 - Visitante. Entrada: Visitante"
+  },
+  {
+    "padrao": "um_para_um_casa",
+    "sequencia": ["C", "V", "C", "V", "C", "V", "C", "V"],
+    "mensagem": "Sequência indica o padrão 1 para 1 - Casa. Entrada: Casa"
+  },
+  {
+    "padrao": "um_para_um_visitante",
+    "sequencia": ["V", "C", "V", "C", "V", "C", "V", "C"],
+    "mensagem": "Sequência indica o padrão 1 para 1 - Visitante. Entrada: Visitante"
+  },
+  {
+    "padrao": "tres_para_tres_visitante",
+    "sequencia": ["V", "V", "V", "C", "C", "C", "V", "V", "V"],
+    "mensagem": "Sequência indica o padrão 3 para 3 - Visitante. Entrada: Visitante"
+  },
+  {
+    "padrao": "tres_para_tres_casa",
+    "sequencia": ["C", "C", "C", "V", "V", "V", "C", "C", "C"],
+    "mensagem": "Sequência indica o padrão 3 para 3 - Casa. Entrada: Casa"
+  },
+  {
+    "padrao": "tres_para_um_casa",
+    "sequencia": ["C", "C", "C", "V", "C", "C", "C", "V"],
+    "mensagem": "Sequência indica o padrão 3 para 1 - Casa. Entrada: Casa"
+  },
+  {
+    "padrao": "tres_para_um_visitante",
+    "sequencia": ["V", "V", "V", "C", "V", "V", "V", "C"],
+    "mensagem": "Sequência indica o padrão 3 para 1 - Visitante. Entrada: Visitante"
+  }
+]
