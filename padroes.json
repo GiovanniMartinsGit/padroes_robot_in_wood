@@ -48,15 +48,5 @@
     "padrao": "tres_para_um_visitante",
     "sequencia": ["V", "V", "V", "C", "V", "V", "V", "C"],
     "mensagem": "Sequência indica o padrão 3 para 1 - Visitante. Entrada: Visitante"
-  },
-  {
-    "padrao": "cinco_para_cinco_visitante",
-    "sequencia": ["V", "V", "V", "V", "V", "C", "C", "C"],
-    "mensagem": "Sequência indica o padrão 5 para 5 - Visitante. Entrada: Visitante"
-  },
-  {
-    "padrao": "cinco_para_cinco_casa",
-    "sequencia": ["C", "C", "C", "C", "C", "V", "V", "V"],
-    "mensagem": "Sequência indica o padrão 5 para 5 - Casa. Entrada: Casa" 
   }
 ]
