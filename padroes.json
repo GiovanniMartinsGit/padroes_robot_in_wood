@@ -87,5 +87,5 @@
     "padrao": "quatro_para_um_casa",
     "sequencia": ["C", "C", "C", "C","V", "C", "C", "C"],
     "mensagem": "Sequência indica o padrão 4 para 1 - Visitante. Entrada: Visitante"  
-    },
+    }
 ]
