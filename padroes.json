@@ -57,7 +57,7 @@
   {
     "padrao": "cinco_para_cinco_casa",
     "sequencia": ["C", "C", "C", "C", "C", "V", "V", "V"],
-    "mensagem": "Sequência indica o padrão 5 para 5 - Casa. Entrada: Casa" 
+    "mensagem": "Sequência indica o padrão 5 para 5 - Casa. Entrada: Casa"
   },
   {
     "padrao": "cinco_para_um_visitante",
@@ -67,25 +67,26 @@
   {
     "padrao": "cinco_para_um_casa",
     "sequencia": ["V", "V", "V", "V", "V", "C", "V", "V"],
-    "mensagem": "Sequência indica o padrão 5 para 1 - Casa. Entrada: Visitante"  
+    "mensagem": "Sequência indica o padrão 5 para 1 - Casa. Entrada: Visitante"
+  },
   {
     "padrao": "quatro_para_quatro_casa",
     "sequencia": ["C", "C", "C", "C", "V", "V", "V", "V"],
-    "mensagem": "Sequência indica o padrão 4 para 4 - Casa. Entrada: Visitante"  
+    "mensagem": "Sequência indica o padrão 4 para 4 - Casa. Entrada: Visitante"
   },
   {
     "padrao": "quatro_para_quatro_visitante",
-    "sequencia": ["V", "V", "V", "V","C", "C", "C", "C"],
-    "mensagem": "Sequência indica o padrão 4 para 4 - Visitante. Entrada: Casa"  
+    "sequencia": ["V", "V", "V", "V", "C", "C", "C", "C"],
+    "mensagem": "Sequência indica o padrão 4 para 4 - Visitante. Entrada: Casa"
   },
   {
     "padrao": "quatro_para_um_visitante",
-    "sequencia": ["V", "V", "V", "V","C", "V", "V", "V"],
-    "mensagem": "Sequência indica o padrão 4 para 1 - Visitante. Entrada: Casa"  
+    "sequencia": ["V", "V", "V", "V", "C", "V", "V", "V"],
+    "mensagem": "Sequência indica o padrão 4 para 1 - Visitante. Entrada: Casa"
   },
   {
     "padrao": "quatro_para_um_casa",
-    "sequencia": ["C", "C", "C", "C","V", "C", "C", "C"],
-    "mensagem": "Sequência indica o padrão 4 para 1 - Visitante. Entrada: Visitante"  
+    "sequencia": ["C", "C", "C", "C", "V", "C", "C", "C"],
+    "mensagem": "Sequência indica o padrão 4 para 1 - Casa. Entrada: Visitante"
   }
 ]
